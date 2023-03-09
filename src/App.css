@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: mediumslateblue;
 }
 
 .App-logo {
@@ -36,3 +37,16 @@
     transform: rotate(360deg);
   }
 }
+
+p {
+  color: blue;
+ }
+ 
+ h1 {
+   color: violet;
+ }
+ 
+ button {
+   border-radius: 15%;
+   background-color: greenyellow;
+ }
